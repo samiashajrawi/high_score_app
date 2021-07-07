@@ -1,0 +1,28 @@
+{
+  "HighScoreApp": [
+    {
+      "name": "Jane Doe",
+      "totalPoints": 157,
+      "clicks": 5,
+      "id": 1
+    },
+    {
+      "name": "Lily Allen",
+      "totalPoints": 234,
+      "clicks": 8,
+      "id": 2
+    },
+    {
+      "name": "John Smith",
+      "totalPoints": 390,
+      "clicks": 10,
+      "id": 3
+    },
+    {
+      "name": "Samya Shajrawi",
+      "totalPoints": 72,
+      "clicks": 1,
+      "id": 4
+    }
+  ]
+}
