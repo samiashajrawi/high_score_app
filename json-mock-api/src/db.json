@@ -2,27 +2,87 @@
   "HighScoreApp": [
     {
       "name": "Jane Doe",
-      "totalPoints": 157,
+      "totalPoints": 50,
       "clicks": 5,
       "id": 1
     },
     {
       "name": "Lily Allen",
-      "totalPoints": 234,
+      "totalPoints": 34,
       "clicks": 8,
       "id": 2
     },
     {
       "name": "John Smith",
-      "totalPoints": 390,
+      "totalPoints": 90,
       "clicks": 10,
       "id": 3
     },
     {
+      "id": 4,
       "name": "Samya Shajrawi",
-      "totalPoints": 72,
+      "totalPoints": 97,
+      "clicks": 1
+    },
+    {
+      "name": "Laila",
+      "totalPoints": 15,
       "clicks": 1,
-      "id": 4
+      "id": 5
+    },
+    {
+      "name": "Liane",
+      "totalPoints": -94,
+      "clicks": 1,
+      "id": 6
+    },
+    {
+      "name": "Tom",
+      "totalPoints": -53,
+      "clicks": 1,
+      "id": 7
+    },
+    {
+      "name": "Alin",
+      "totalPoints": 5,
+      "clicks": 1,
+      "id": 8
+    },
+    {
+      "name": "Kem",
+      "totalPoints": -54,
+      "clicks": 1,
+      "id": 9
+    },
+    {
+      "name": "Alis",
+      "totalPoints": 78,
+      "clicks": 5,
+      "id": 10
+    },
+    {
+      "name": "Nancy",
+      "totalPoints": 53,
+      "clicks": 10,
+      "id": 11
+    },
+    {
+      "name": "Jo",
+      "totalPoints": 88,
+      "clicks": 1,
+      "id": 12
+    },
+    {
+      "name": "samya shajrawi",
+      "totalPoints": 21,
+      "clicks": 1,
+      "id": 13
+    },
+    {
+      "name": "Samya Shajrawi",
+      "totalPoints": 83,
+      "clicks": 1,
+      "id": 14
     }
   ]
 }
